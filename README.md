@@ -147,7 +147,7 @@ Day 09  ──  ✅  VQC · Variational Classifier
 Day 10  ──  ✅  Project 1 · QML Classifier · MNIST
 Day 11  ──  ✅  Quantum-Safe Cryptography · LWE
 Day 12  ──  ✅  Quantum Portfolio · QAOA · real stock data
-Day 13  ──  ✅  Project 2 · Streamlit app · deployed
+Day 13  ──      Project 2 · Streamlit app · deployed
 ·
 ·
 Day 20  ──  ·   Final push · 
